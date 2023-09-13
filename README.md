@@ -4,6 +4,8 @@
 
 
 
+
+
 ## Chat/Messaging App
 
 - install flutter packages after cloning from github
@@ -18,5 +20,8 @@ flutter packages get
 flutter run 
 ```
 
+  - Home Screen: click on the first converstion to redirect you to the conversations screen:
+
+    ![Chat Screen](https://github.com/mdidech/flutter_chat_app/blob/main/assets/images/home_screen.png)
 
 ### _Congratulations! now you can run the App locally._
